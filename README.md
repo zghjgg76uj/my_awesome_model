@@ -30,5 +30,5 @@
 from transformers import pipeline
 text = 'тест'
 classifier = pipeline("text-classification", model="path_to/my_awesome_model/")
-classifier(text) 
+print(classifier(text)) 
 
