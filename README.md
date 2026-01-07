@@ -13,11 +13,16 @@
 ```Transformers```
 
 
+```PyTorch```
+
+
 Команда для установки зависимостей:
 
 
 ```pip install transformers```
 
+
+```pip install torch```
 
 Пример использования модели:
 
